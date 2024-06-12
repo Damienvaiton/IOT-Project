@@ -1,0 +1,33 @@
+{
+  "name": "api-iot-camera-recul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexisboizard/api-iot-camera-recul.git"
+  },
+  "author": "Alexis BOIZARD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexisboizard/api-iot-camera-recul/issues"
+  },
+  "homepage": "https://github.com/alexisboizard/api-iot-camera-recul#readme",
+  "dependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.6",
+    "@babel/node": "^7.22.19",
+    "@babel/preset-env": "^7.23.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "firebase": "^10.7.1",
+    "firebase-admin": "^12.0.0",
+    "nodemon": "^3.0.2"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "27046952871",
+    "firebase_url": "https://wallwatcher-319e4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wallwatcher-319e4",
+    "storage_bucket": "wallwatcher-319e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27046952871:android:b5eb198609a775ed068082",
+        "android_client_info": {
+          "package_name": "com.alexisboiz.wallwatcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATcz7HXbAfhbouD8e36g73TdUjZzfAQAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
